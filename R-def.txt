@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_baseline_camera_24
+drawable ic_baseline_image_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id button2
+id buttonrecognize
+id buttonregister
+id cameracard
+id dlg_image
+id dlg_input
+id dlg_title
+id gallerycard
+id imageView
+id imageView2
+id imageView3
+id imageView4
+id textView
+layout activity_main
+layout activity_recognition
+layout activity_register
+layout register_face_dialogue
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.FaceRecognitionImages
+style Theme.FaceRecognitionImages
+xml backup_rules
+xml data_extraction_rules
